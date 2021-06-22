@@ -5,4 +5,4 @@ In the attached Jupyter notebook I look at [Android apps](https://www.kaggle.com
 
 As with most data it must be cleaned such as removing duplicates, missing rows and special characters. Then the data can be filtered into the categories you want observe, in this case, free apps that are popular (high downloads).
 
-All the above steps are outlined in the notebook.
+All the above steps are outlined in the [notebook](https://nbviewer.jupyter.org/github/dwill023/Project_1/blob/main/Android%20apps%20project_1.ipynb).
